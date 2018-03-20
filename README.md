@@ -1,4 +1,4 @@
 # hello-world
 Just Another Repository
 
-Intern here! 
+Intern Here
